@@ -1,0 +1,14 @@
+{
+    "name": "网络防沉迷",
+    "description": "防止人沉迷网络，切实保护人身心健康",
+    "version": "1",
+    "manifest_version": 3,
+    "permissions": [
+        "webNavigation",
+        "tabs",
+        "notifications"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+  }
