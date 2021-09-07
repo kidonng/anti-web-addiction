@@ -1,6 +1,6 @@
 # 网络防沉迷浏览器扩展
 
-根据并不存在的《国家新闻出版署关于进一步严格管理 切实防止人沉迷网络的通知》，所有网络企业仅可在周五、周六、周日和法定节假日每日20时至21时向人提供1小时网络服务，其他时间均不得以任何形式向人提供网络游戏服务。
+根据并不存在的《国家新闻出版署关于进一步严格管理 切实防止人沉迷网络的通知》，所有网络企业仅可在周五、周六、周日和法定节假日每日20时至21时向人提供1小时网络服务，其他时间均不得以任何形式向人提供网络服务。
 
 为积极响应有关通知，网络防沉迷浏览器扩展已于即日准时上线。
 
@@ -20,9 +20,9 @@
 接入本扩展就如将大象装进冰箱般一样容易！
 
 1. 通过多种方式下载本扩展！
-  - 点击本页面上绿色的 **Code** 按钮，然后点击 **Download ZIP** 并解压下载的文件
-  - 运行命令 `git clone https://github.com/kidonng/anti-web-addiction`
-  - 运行命令 `curl -O https://codeload.github.com/kidonng/anti-web-addiction/zip/master` 并解压下载的文件
+   - 点击本页面上绿色的 **Code** 按钮，然后点击 **Download ZIP** 并解压下载的文件
+   - 运行命令 `git clone https://github.com/kidonng/anti-web-addiction`
+   - 运行命令 `curl -O https://codeload.github.com/kidonng/anti-web-addiction/zip/master` 并解压下载的文件
 2. 打开 **`chrome://extensions/`**，勾选右上角的**开发者模式** (Developer mode)！
 3. 点击**加载已解压的扩展程序** (Load unpacked) 并选择本扩展所在的文件夹！
 
