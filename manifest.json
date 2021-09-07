@@ -2,6 +2,7 @@
     "name": "网络防沉迷",
     "description": "防止人沉迷网络，切实保护人身心健康",
     "version": "1",
+    "homepage_url": "https://github.com/kidonng/anti-web-addiction",
     "manifest_version": 3,
     "permissions": [
         "webNavigation",
