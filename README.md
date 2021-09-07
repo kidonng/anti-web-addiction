@@ -6,6 +6,7 @@
 
 - 采用最新技术 [Manifest V3](https://developer.chrome.com/docs/extensions/mv3/intro/) 精准监控成瘾行为！
 - 自施行日起正式生效，对时间旅行者友好！
+- 提供[用户脚本](anti-web-addiction.user.js)，对懒得看接入方法的用户友好！
 
 ## 接入方法
 
