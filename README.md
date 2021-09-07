@@ -10,7 +10,12 @@
 
 ## 接入方法
 
-本扩展的浏览器兼容性极其优秀，Chrome 版本达到 88 即可使用！
+<details>
+<summary>本扩展的浏览器兼容性极其优秀，Chrome 版本达到 88 即可使用！</summary>
+
+为维护您拒绝沉迷的权利，您还可以将 [`manifest.json`](manifest.json) 中的 `manifest_version` 改为 `2` 以获得无与伦比的浏览器兼容性！
+
+</details>
 
 接入本扩展就如将大象装进冰箱般一样容易！
 
