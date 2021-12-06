@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         网络防沉迷
 // @description  防止人沉迷网络，切实保护人身心健康
-// @version      1
+// @version      2
 // @author       kidonng
 // @namespace    https://github.com/kidonng/anti-web-addiction
-// @match        http*://*/*
+// @match        http://*/*
+// @match        https://*/*
 // @grant        GM.notification
 // @run-at       document-start
 // ==/UserScript==
