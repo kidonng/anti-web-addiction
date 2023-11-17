@@ -22,7 +22,7 @@
 1. 通过多种方式下载本扩展！
    - 点击本页面上绿色的 **Code** 按钮，然后点击 **Download ZIP** 并解压下载的文件
    - 运行命令 `git clone https://github.com/kidonng/anti-web-addiction`
-   - 运行命令 `curl -O https://codeload.github.com/kidonng/anti-web-addiction/zip/master` 并解压下载的文件
+   - 运行命令 `curl --remote-name https://codeload.github.com/kidonng/anti-web-addiction/zip/HEAD` 并解压下载的文件
 2. 打开 **`chrome://extensions/`**，勾选右上角的**开发者模式** (Developer mode)！
 3. 点击**加载已解压的扩展程序** (Load unpacked) 并选择本扩展所在的文件夹！
 
